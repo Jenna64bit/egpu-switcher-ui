@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=eGPU Picker
+Comment=Starts an egpu-switch UI
+Exec=/PATHPATHPATH/egpu-ui.sh
+Icon=thunderbolt-symbolic
+Type=Application
+Terminal=false
